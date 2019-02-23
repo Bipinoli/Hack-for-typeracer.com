@@ -61,7 +61,7 @@ document.addEventListener("keydown", function(e) {
 4. Do not clik on the input area. Wait for the timer.
 5. Press any key. Move mouse over the input area. 
 6. If something went wrong then refresh the page and try again.
-7. For vido demonstration visit: https://www.youtube.com/watch?v=2294vvGtQ9c
+7. For vido demonstration visit: https://www.youtube.com/watch?v=iZALOgYbhLA
 
 
 ### Some tips
