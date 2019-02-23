@@ -60,6 +60,7 @@ document.addEventListener("keydown", function(e) {
 ```
 4. Do not clik on the input area. Wait for the timer.
 5. With mouse over the input area and without clicking press any key.
+6. If something went wrong then refresh the page and try again.
 
 
 ### Some tips
