@@ -29,7 +29,7 @@ function loadTexts() {
         text += txt;
     }
 
-    // console.log("\n" + text);
+    console.log("\n" + text);
 }
 
 
