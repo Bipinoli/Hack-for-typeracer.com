@@ -1,5 +1,5 @@
 # Hack for typeracer.com
-A browser based hack for typeracer.com. With this cheat you can achieve your dream type speed and win every freaking match. 
+A browser based hack for typeracer.com. With this cheat you can achieve your dream type speed and win every freaking match. You can choose your own speed for your purpose.
 
 ### Clarifications
 It has been made purely for educational purposes. Author will not be responsible for any damages. 😁
